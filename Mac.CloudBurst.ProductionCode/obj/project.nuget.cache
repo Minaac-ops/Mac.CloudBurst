@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcr1U/jgZf8bhym/I72Ao/chZ/kvg1bpmyh3kjRmVP7YcQIfRFWwLb4OXkqaPtaV7V7G2D5NnHyp7xo0tLc+Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Mac.CloudBurst\\Mac.CloudBurst.ProductionCode\\Mac.CloudBurst.ProductionCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

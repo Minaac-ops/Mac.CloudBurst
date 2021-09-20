@@ -1,0 +1,16 @@
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.exe
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.deps.json
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.runtimeconfig.json
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.runtimeconfig.dev.json
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.dll
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\bin\Debug\net5.0\Mac.CloudBurst.ProductionCode.pdb
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.csproj.AssemblyReference.cache
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.AssemblyInfoInputs.cache
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.AssemblyInfo.cs
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.csproj.CoreCompileInputs.cache
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.dll
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\refint\Mac.CloudBurst.ProductionCode.dll
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.pdb
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\Mac.CloudBurst.ProductionCode.genruntimeconfig.cache
+C:\Work\Mac.CloudBurst\Mac.CloudBurst.ProductionCode\obj\Debug\net5.0\ref\Mac.CloudBurst.ProductionCode.dll

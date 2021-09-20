@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mac.CloudBurst.ProductionCode", "Mac.CloudBurst.ProductionCode\Mac.CloudBurst.ProductionCode.csproj", "{0B5DDFA4-3AEA-41F3-8B46-B9C340E7F59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mac.CloudBurst.ProductionCodeTest", "Mac.CloudBurst.ProductionCodeTest\Mac.CloudBurst.ProductionCodeTest.csproj", "{F2DE48F2-C1A9-4151-92E5-EF2ACFF4FD2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5DDFA4-3AEA-41F3-8B46-B9C340E7F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5DDFA4-3AEA-41F3-8B46-B9C340E7F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5DDFA4-3AEA-41F3-8B46-B9C340E7F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5DDFA4-3AEA-41F3-8B46-B9C340E7F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DE48F2-C1A9-4151-92E5-EF2ACFF4FD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DE48F2-C1A9-4151-92E5-EF2ACFF4FD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DE48F2-C1A9-4151-92E5-EF2ACFF4FD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DE48F2-C1A9-4151-92E5-EF2ACFF4FD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
