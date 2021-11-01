@@ -1,9 +1,0 @@
-language: csharp
-mono: none
-dotnet: 5.0
-solution: Mac.Cloudburst.sln
-
-script:
-- dotnet restore
-- dotnet build
-- dotnet test
